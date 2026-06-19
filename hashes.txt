@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Tu cuerpo una mentira
+
+This log tracks the cryptographic history and versioning for the song **Tu cuerpo una mentira** (tu-cuerpo-una-mentira).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-20T02:20:29.453994 | `v1` | `23bb063e5c621ce1b666d6a91922321c332e6dcd09418184d21370022261bc82` | `c742f02f8b370b7e671304b8378183cda549594ab7b3e764d96f75a5abb8aeb0` | `2026-06-20_tu-cuerpo-una-mentira-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
