@@ -5,6 +5,7 @@ This log tracks the cryptographic history and versioning for the song **Tu cuerp
 | Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
 |:----------|:--------|:-------------------|:-----------------|:------------|
 | 2026-06-20T02:20:29.453994 | `v1` | `23bb063e5c621ce1b666d6a91922321c332e6dcd09418184d21370022261bc82` | `c742f02f8b370b7e671304b8378183cda549594ab7b3e764d96f75a5abb8aeb0` | `2026-06-20_tu-cuerpo-una-mentira-v1.txt` |
+| 2026-06-20T03:13:30.642729 | `v2` | `e6aea928166df63369667761ed0b6f3aff5d628f98ddf391cb256cec69c1979a` | `187ae2740245d48df8ba26a67cd7449eb6b0402636659d2caba1d55dd51a088e` | `2026-06-20_tu-cuerpo-una-mentira-v2.txt` |
 
 ---
 *Written and Curated by Abu Sayed*
