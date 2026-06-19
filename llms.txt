@@ -15,7 +15,7 @@
 | **Written On** | June 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tu-cuerpo-una-mentira/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Tu cuerpo una mentira](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-cuerpo-una-mentira/) |
+| **Get License** | [Commercial Licensing for Tu cuerpo una mentira](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-cuerpo-una-mentira/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -44,7 +44,7 @@
 
 ## 🔗 Song Links
 
-- [Telegram](https://t.me/AbuSayedMusic/3756)
+- [Telegram](https://t.me/AbuSayedMusic/3779)
 
 ---
 
