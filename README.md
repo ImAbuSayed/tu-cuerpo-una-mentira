@@ -12,10 +12,10 @@
 |-------|---------|
 | **Title** | Tu cuerpo una mentira |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
-| **Written On** | June 09, 2026 |
+| **Written On** | June 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tu-cuerpo-una-mentira/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Tu cuerpo una mentira](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-cuerpo-una-mentira/) |
+| **Get License** | [License this song: Tu cuerpo una mentira](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-cuerpo-una-mentira/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,10 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> Tú me dices que te vas, pero los ojos no te mienten
-> Tu cuerpo es una mentira, porque tus labios lo sienten
-> Nos perdemos en la disco, baby, en un juego caliente
-> Una noche de locura que se vuelve permanente
+> Tu cuerpo una mentira, pero sabe a verdad
+> Cuando la noche enciende, me pierdo en tu ciudad
+> Dime que te quedas, que no quiero despertar
+> Bailando entre mentiras, nos vamos a escapar
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
